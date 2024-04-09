@@ -1,0 +1,2000 @@
+[{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead90"
+  },
+  "team_id": 2,
+  "players": [
+    {
+      "playerId": 1,
+      "name": "lswindon0",
+      "age": 21,
+      "nationality": "Brazil"
+    },
+    {
+      "playerId": 2,
+      "name": "vberrane1",
+      "age": 21,
+      "nationality": "Greece"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead91"
+  },
+  "team_id": 3,
+  "players": [
+    {
+      "playerId": 3,
+      "name": "cbeart0",
+      "age": 21,
+      "nationality": "United States"
+    },
+    {
+      "playerId": 4,
+      "name": "timmer1",
+      "age": 21,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead92"
+  },
+  "team_id": 4,
+  "players": [
+    {
+      "playerId": 5,
+      "name": "ddenslow0",
+      "age": 22,
+      "nationality": "Guyana"
+    },
+    {
+      "playerId": 6,
+      "name": "mandriveaux1",
+      "age": 22,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead93"
+  },
+  "team_id": 5,
+  "players": [
+    {
+      "playerId": 7,
+      "name": "jdubock0",
+      "age": 17,
+      "nationality": "Portugal"
+    },
+    {
+      "playerId": 8,
+      "name": "jpalfreeman1",
+      "age": 18,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead94"
+  },
+  "team_id": 6,
+  "players": [
+    {
+      "playerId": 9,
+      "name": "clangsdon0",
+      "age": 25,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 10,
+      "name": "rstrotton1",
+      "age": 23,
+      "nationality": "Portugal"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead95"
+  },
+  "team_id": 7,
+  "players": [
+    {
+      "playerId": 11,
+      "name": "starrant0",
+      "age": 26,
+      "nationality": "Bosnia and Herzegovina"
+    },
+    {
+      "playerId": 12,
+      "name": "dbenitez1",
+      "age": 23,
+      "nationality": "Azerbaijan"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead96"
+  },
+  "team_id": 8,
+  "players": [
+    {
+      "playerId": 13,
+      "name": "cpumfrey0",
+      "age": 21,
+      "nationality": "China"
+    },
+    {
+      "playerId": 14,
+      "name": "rmaruszewski1",
+      "age": 16,
+      "nationality": "Poland"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead97"
+  },
+  "team_id": 9,
+  "players": [
+    {
+      "playerId": 15,
+      "name": "gsavary0",
+      "age": 19,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 16,
+      "name": "khughf1",
+      "age": 18,
+      "nationality": "Cuba"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead98"
+  },
+  "team_id": 10,
+  "players": [
+    {
+      "playerId": 17,
+      "name": "cclapshaw0",
+      "age": 21,
+      "nationality": "South Korea"
+    },
+    {
+      "playerId": 18,
+      "name": "clycett1",
+      "age": 25,
+      "nationality": "Portugal"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead99"
+  },
+  "team_id": 11,
+  "players": [
+    {
+      "playerId": 19,
+      "name": "jcoulson0",
+      "age": 20,
+      "nationality": "Brazil"
+    },
+    {
+      "playerId": 20,
+      "name": "kkohrsen1",
+      "age": 21,
+      "nationality": "France"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead9a"
+  },
+  "team_id": 12,
+  "players": [
+    {
+      "playerId": 21,
+      "name": "varbor0",
+      "age": 22,
+      "nationality": "Poland"
+    },
+    {
+      "playerId": 22,
+      "name": "ishawcroft1",
+      "age": 16,
+      "nationality": "Sweden"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead9b"
+  },
+  "team_id": 13,
+  "players": [
+    {
+      "playerId": 23,
+      "name": "mpitherick0",
+      "age": 23,
+      "nationality": "Dominican Republic"
+    },
+    {
+      "playerId": 24,
+      "name": "cmaccartair1",
+      "age": 17,
+      "nationality": "Armenia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead9c"
+  },
+  "team_id": 14,
+  "players": [
+    {
+      "playerId": 25,
+      "name": "mburston0",
+      "age": 22,
+      "nationality": "France"
+    },
+    {
+      "playerId": 26,
+      "name": "gbarribal1",
+      "age": 22,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead9d"
+  },
+  "team_id": 15,
+  "players": [
+    {
+      "playerId": 27,
+      "name": "sveel0",
+      "age": 17,
+      "nationality": "Morocco"
+    },
+    {
+      "playerId": 28,
+      "name": "aberzins1",
+      "age": 19,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead9e"
+  },
+  "team_id": 16,
+  "players": [
+    {
+      "playerId": 29,
+      "name": "apeacop0",
+      "age": 23,
+      "nationality": "United States"
+    },
+    {
+      "playerId": 30,
+      "name": "pdockwra1",
+      "age": 22,
+      "nationality": "Sweden"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2ead9f"
+  },
+  "team_id": 17,
+  "players": [
+    {
+      "playerId": 31,
+      "name": "dbarhem0",
+      "age": 20,
+      "nationality": "Paraguay"
+    },
+    {
+      "playerId": 32,
+      "name": "mroddam1",
+      "age": 17,
+      "nationality": "Russia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada0"
+  },
+  "team_id": 18,
+  "players": [
+    {
+      "playerId": 33,
+      "name": "ccroson0",
+      "age": 26,
+      "nationality": "China"
+    },
+    {
+      "playerId": 34,
+      "name": "npolhill1",
+      "age": 19,
+      "nationality": "Russia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada1"
+  },
+  "team_id": 19,
+  "players": [
+    {
+      "playerId": 35,
+      "name": "hbrixey0",
+      "age": 17,
+      "nationality": "Russia"
+    },
+    {
+      "playerId": 36,
+      "name": "surien1",
+      "age": 25,
+      "nationality": "Russia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada2"
+  },
+  "team_id": 20,
+  "players": [
+    {
+      "playerId": 37,
+      "name": "ctop0",
+      "age": 21,
+      "nationality": "Yemen"
+    },
+    {
+      "playerId": 38,
+      "name": "sberggren1",
+      "age": 21,
+      "nationality": "Pakistan"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada3"
+  },
+  "team_id": 21,
+  "players": [
+    {
+      "playerId": 39,
+      "name": "cduerden0",
+      "age": 24,
+      "nationality": "China"
+    },
+    {
+      "playerId": 40,
+      "name": "rcallam1",
+      "age": 26,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada4"
+  },
+  "team_id": 22,
+  "players": [
+    {
+      "playerId": 41,
+      "name": "fdever0",
+      "age": 19,
+      "nationality": "Vietnam"
+    },
+    {
+      "playerId": 42,
+      "name": "fbanasik1",
+      "age": 22,
+      "nationality": "France"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada5"
+  },
+  "team_id": 23,
+  "players": [
+    {
+      "playerId": 43,
+      "name": "pedgeson0",
+      "age": 26,
+      "nationality": "Dominican Republic"
+    },
+    {
+      "playerId": 44,
+      "name": "fkinder1",
+      "age": 16,
+      "nationality": "Philippines"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada6"
+  },
+  "team_id": 24,
+  "players": [
+    {
+      "playerId": 45,
+      "name": "bsidwell0",
+      "age": 24,
+      "nationality": "Finland"
+    },
+    {
+      "playerId": 46,
+      "name": "mimlin1",
+      "age": 21,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada7"
+  },
+  "team_id": 25,
+  "players": [
+    {
+      "playerId": 47,
+      "name": "fturpey0",
+      "age": 17,
+      "nationality": "Poland"
+    },
+    {
+      "playerId": 48,
+      "name": "naltree1",
+      "age": 17,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada8"
+  },
+  "team_id": 26,
+  "players": [
+    {
+      "playerId": 49,
+      "name": "rhinks0",
+      "age": 26,
+      "nationality": "China"
+    },
+    {
+      "playerId": 50,
+      "name": "gcarlisle1",
+      "age": 26,
+      "nationality": "Equatorial Guinea"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada9"
+  },
+  "team_id": 27,
+  "players": [
+    {
+      "playerId": 51,
+      "name": "eelderkin0",
+      "age": 25,
+      "nationality": "Ecuador"
+    },
+    {
+      "playerId": 52,
+      "name": "ascoon1",
+      "age": 20,
+      "nationality": "Mexico"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadaa"
+  },
+  "team_id": 28,
+  "players": [
+    {
+      "playerId": 53,
+      "name": "jfilchagin0",
+      "age": 17,
+      "nationality": "South Africa"
+    },
+    {
+      "playerId": 54,
+      "name": "mfollen1",
+      "age": 22,
+      "nationality": "Democratic Republic of the Congo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadab"
+  },
+  "team_id": 29,
+  "players": [
+    {
+      "playerId": 55,
+      "name": "cceliz0",
+      "age": 23,
+      "nationality": "Ukraine"
+    },
+    {
+      "playerId": 56,
+      "name": "smuccino1",
+      "age": 20,
+      "nationality": "Ukraine"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadac"
+  },
+  "team_id": 30,
+  "players": [
+    {
+      "playerId": 57,
+      "name": "fstares0",
+      "age": 16,
+      "nationality": "China"
+    },
+    {
+      "playerId": 58,
+      "name": "rprawle1",
+      "age": 22,
+      "nationality": "Russia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadad"
+  },
+  "team_id": 31,
+  "players": [
+    {
+      "playerId": 59,
+      "name": "sortells0",
+      "age": 19,
+      "nationality": "Poland"
+    },
+    {
+      "playerId": 60,
+      "name": "mmcguirk1",
+      "age": 16,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadae"
+  },
+  "team_id": 32,
+  "players": [
+    {
+      "playerId": 61,
+      "name": "cthornally0",
+      "age": 26,
+      "nationality": "Andorra"
+    },
+    {
+      "playerId": 62,
+      "name": "vdunkinson1",
+      "age": 21,
+      "nationality": "Netherlands"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadaf"
+  },
+  "team_id": 33,
+  "players": [
+    {
+      "playerId": 63,
+      "name": "pmaccarlich0",
+      "age": 22,
+      "nationality": "Philippines"
+    },
+    {
+      "playerId": 64,
+      "name": "daynscombe1",
+      "age": 24,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb0"
+  },
+  "team_id": 34,
+  "players": [
+    {
+      "playerId": 65,
+      "name": "lphython0",
+      "age": 25,
+      "nationality": "China"
+    },
+    {
+      "playerId": 66,
+      "name": "kkimmel1",
+      "age": 20,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb1"
+  },
+  "team_id": 35,
+  "players": [
+    {
+      "playerId": 67,
+      "name": "tinns0",
+      "age": 18,
+      "nationality": "China"
+    },
+    {
+      "playerId": 68,
+      "name": "lwalworche1",
+      "age": 26,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb2"
+  },
+  "team_id": 36,
+  "players": [
+    {
+      "playerId": 69,
+      "name": "bgledstane0",
+      "age": 25,
+      "nationality": "Greece"
+    },
+    {
+      "playerId": 70,
+      "name": "grawles1",
+      "age": 25,
+      "nationality": "Czech Republic"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb3"
+  },
+  "team_id": 37,
+  "players": [
+    {
+      "playerId": 71,
+      "name": "ahanssmann0",
+      "age": 25,
+      "nationality": "South Africa"
+    },
+    {
+      "playerId": 72,
+      "name": "ekohter1",
+      "age": 17,
+      "nationality": "Malaysia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb4"
+  },
+  "team_id": 38,
+  "players": [
+    {
+      "playerId": 73,
+      "name": "ldaviddi0",
+      "age": 25,
+      "nationality": "Madagascar"
+    },
+    {
+      "playerId": 74,
+      "name": "mthomtson1",
+      "age": 26,
+      "nationality": "Portugal"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb5"
+  },
+  "team_id": 39,
+  "players": [
+    {
+      "playerId": 75,
+      "name": "ntague0",
+      "age": 22,
+      "nationality": "China"
+    },
+    {
+      "playerId": 76,
+      "name": "dfould1",
+      "age": 17,
+      "nationality": "United States"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb6"
+  },
+  "team_id": 40,
+  "players": [
+    {
+      "playerId": 77,
+      "name": "balberti0",
+      "age": 16,
+      "nationality": "Spain"
+    },
+    {
+      "playerId": 78,
+      "name": "dhorning1",
+      "age": 17,
+      "nationality": "Poland"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb7"
+  },
+  "team_id": 41,
+  "players": [
+    {
+      "playerId": 79,
+      "name": "jsoall0",
+      "age": 24,
+      "nationality": "Russia"
+    },
+    {
+      "playerId": 80,
+      "name": "sfeenan1",
+      "age": 20,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb8"
+  },
+  "team_id": 42,
+  "players": [
+    {
+      "playerId": 81,
+      "name": "gizchaki0",
+      "age": 19,
+      "nationality": "Argentina"
+    },
+    {
+      "playerId": 82,
+      "name": "svalerius1",
+      "age": 16,
+      "nationality": "Bulgaria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadb9"
+  },
+  "team_id": 43,
+  "players": [
+    {
+      "playerId": 83,
+      "name": "joxherd0",
+      "age": 16,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 84,
+      "name": "jmailes1",
+      "age": 23,
+      "nationality": "Netherlands"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadba"
+  },
+  "team_id": 44,
+  "players": [
+    {
+      "playerId": 85,
+      "name": "kbosence0",
+      "age": 20,
+      "nationality": "China"
+    },
+    {
+      "playerId": 86,
+      "name": "rshufflebotham1",
+      "age": 20,
+      "nationality": "Kosovo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadbb"
+  },
+  "team_id": 45,
+  "players": [
+    {
+      "playerId": 87,
+      "name": "arope0",
+      "age": 17,
+      "nationality": "Iran"
+    },
+    {
+      "playerId": 88,
+      "name": "lrickeard1",
+      "age": 23,
+      "nationality": "United States"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadbc"
+  },
+  "team_id": 46,
+  "players": [
+    {
+      "playerId": 89,
+      "name": "llampart0",
+      "age": 26,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 90,
+      "name": "mprisk1",
+      "age": 23,
+      "nationality": "Portugal"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadbd"
+  },
+  "team_id": 47,
+  "players": [
+    {
+      "playerId": 91,
+      "name": "roakman0",
+      "age": 21,
+      "nationality": "China"
+    },
+    {
+      "playerId": 92,
+      "name": "ilamerton1",
+      "age": 24,
+      "nationality": "Bosnia and Herzegovina"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadbe"
+  },
+  "team_id": 48,
+  "players": [
+    {
+      "playerId": 93,
+      "name": "dmcgifford0",
+      "age": 18,
+      "nationality": "China"
+    },
+    {
+      "playerId": 94,
+      "name": "smaccari1",
+      "age": 23,
+      "nationality": "Mexico"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadbf"
+  },
+  "team_id": 49,
+  "players": [
+    {
+      "playerId": 95,
+      "name": "hfellini0",
+      "age": 20,
+      "nationality": "Honduras"
+    },
+    {
+      "playerId": 96,
+      "name": "rmcdonogh1",
+      "age": 25,
+      "nationality": "Argentina"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc0"
+  },
+  "team_id": 50,
+  "players": [
+    {
+      "playerId": 97,
+      "name": "abachs0",
+      "age": 21,
+      "nationality": "Philippines"
+    },
+    {
+      "playerId": 98,
+      "name": "dcharnley1",
+      "age": 22,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc1"
+  },
+  "team_id": 51,
+  "players": [
+    {
+      "playerId": 99,
+      "name": "ltrahearn0",
+      "age": 18,
+      "nationality": "China"
+    },
+    {
+      "playerId": 100,
+      "name": "rcorradi1",
+      "age": 24,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc2"
+  },
+  "team_id": 52,
+  "players": [
+    {
+      "playerId": 101,
+      "name": "ushorto0",
+      "age": 26,
+      "nationality": "Russia"
+    },
+    {
+      "playerId": 102,
+      "name": "glambird1",
+      "age": 23,
+      "nationality": "Colombia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc3"
+  },
+  "team_id": 53,
+  "players": [
+    {
+      "playerId": 103,
+      "name": "rsarll0",
+      "age": 25,
+      "nationality": "Mongolia"
+    },
+    {
+      "playerId": 104,
+      "name": "mhourahan1",
+      "age": 25,
+      "nationality": "Vietnam"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc4"
+  },
+  "team_id": 54,
+  "players": [
+    {
+      "playerId": 105,
+      "name": "nsherrin0",
+      "age": 24,
+      "nationality": "China"
+    },
+    {
+      "playerId": 106,
+      "name": "eliggins1",
+      "age": 23,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc5"
+  },
+  "team_id": 55,
+  "players": [
+    {
+      "playerId": 107,
+      "name": "vbrock0",
+      "age": 16,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 108,
+      "name": "ngoeff1",
+      "age": 20,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc6"
+  },
+  "team_id": 56,
+  "players": [
+    {
+      "playerId": 109,
+      "name": "mhelliar0",
+      "age": 24,
+      "nationality": "China"
+    },
+    {
+      "playerId": 110,
+      "name": "hbye1",
+      "age": 22,
+      "nationality": "Egypt"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc7"
+  },
+  "team_id": 57,
+  "players": [
+    {
+      "playerId": 111,
+      "name": "werett0",
+      "age": 23,
+      "nationality": "China"
+    },
+    {
+      "playerId": 112,
+      "name": "mfanning1",
+      "age": 16,
+      "nationality": "Nigeria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc8"
+  },
+  "team_id": 58,
+  "players": [
+    {
+      "playerId": 113,
+      "name": "khaddington0",
+      "age": 17,
+      "nationality": "Portugal"
+    },
+    {
+      "playerId": 114,
+      "name": "fbramont1",
+      "age": 19,
+      "nationality": "Malaysia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadc9"
+  },
+  "team_id": 59,
+  "players": [
+    {
+      "playerId": 115,
+      "name": "gclara0",
+      "age": 18,
+      "nationality": "Japan"
+    },
+    {
+      "playerId": 116,
+      "name": "kpellingar1",
+      "age": 23,
+      "nationality": "El Salvador"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadca"
+  },
+  "team_id": 60,
+  "players": [
+    {
+      "playerId": 117,
+      "name": "dtomasi0",
+      "age": 20,
+      "nationality": "Latvia"
+    },
+    {
+      "playerId": 118,
+      "name": "bhenke1",
+      "age": 19,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadcb"
+  },
+  "team_id": 61,
+  "players": [
+    {
+      "playerId": 119,
+      "name": "chaycock0",
+      "age": 19,
+      "nationality": "Cameroon"
+    },
+    {
+      "playerId": 120,
+      "name": "rmillwater1",
+      "age": 21,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadcc"
+  },
+  "team_id": 62,
+  "players": [
+    {
+      "playerId": 121,
+      "name": "emitham0",
+      "age": 19,
+      "nationality": "Serbia"
+    },
+    {
+      "playerId": 122,
+      "name": "eburt1",
+      "age": 16,
+      "nationality": "Poland"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadcd"
+  },
+  "team_id": 63,
+  "players": [
+    {
+      "playerId": 123,
+      "name": "gferneyhough0",
+      "age": 21,
+      "nationality": "Philippines"
+    },
+    {
+      "playerId": 124,
+      "name": "bblackler1",
+      "age": 19,
+      "nationality": "Guinea"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadce"
+  },
+  "team_id": 64,
+  "players": [
+    {
+      "playerId": 125,
+      "name": "cbeville0",
+      "age": 16,
+      "nationality": "Vietnam"
+    },
+    {
+      "playerId": 126,
+      "name": "cwynes1",
+      "age": 19,
+      "nationality": "Pakistan"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadcf"
+  },
+  "team_id": 65,
+  "players": [
+    {
+      "playerId": 127,
+      "name": "okonke0",
+      "age": 21,
+      "nationality": "France"
+    },
+    {
+      "playerId": 128,
+      "name": "lnortham1",
+      "age": 21,
+      "nationality": "North Korea"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd0"
+  },
+  "team_id": 66,
+  "players": [
+    {
+      "playerId": 129,
+      "name": "lmarzele0",
+      "age": 21,
+      "nationality": "Japan"
+    },
+    {
+      "playerId": 130,
+      "name": "cbisset1",
+      "age": 18,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd1"
+  },
+  "team_id": 67,
+  "players": [
+    {
+      "playerId": 131,
+      "name": "kduiguid0",
+      "age": 20,
+      "nationality": "France"
+    },
+    {
+      "playerId": 132,
+      "name": "pmartello1",
+      "age": 21,
+      "nationality": "Netherlands"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd2"
+  },
+  "team_id": 68,
+  "players": [
+    {
+      "playerId": 133,
+      "name": "gshitliffe0",
+      "age": 24,
+      "nationality": "Czech Republic"
+    },
+    {
+      "playerId": 134,
+      "name": "hclaiton1",
+      "age": 24,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd3"
+  },
+  "team_id": 69,
+  "players": [
+    {
+      "playerId": 135,
+      "name": "mdows0",
+      "age": 22,
+      "nationality": "Japan"
+    },
+    {
+      "playerId": 136,
+      "name": "gkilkenny1",
+      "age": 17,
+      "nationality": "Portugal"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd4"
+  },
+  "team_id": 70,
+  "players": [
+    {
+      "playerId": 137,
+      "name": "jbalchin0",
+      "age": 16,
+      "nationality": "Philippines"
+    },
+    {
+      "playerId": 138,
+      "name": "wpardoe1",
+      "age": 26,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd5"
+  },
+  "team_id": 71,
+  "players": [
+    {
+      "playerId": 139,
+      "name": "bwhile0",
+      "age": 25,
+      "nationality": "Poland"
+    },
+    {
+      "playerId": 140,
+      "name": "mbordes1",
+      "age": 25,
+      "nationality": "Vietnam"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd6"
+  },
+  "team_id": 72,
+  "players": [
+    {
+      "playerId": 141,
+      "name": "ywhitby0",
+      "age": 17,
+      "nationality": "China"
+    },
+    {
+      "playerId": 142,
+      "name": "bsharrard1",
+      "age": 26,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd7"
+  },
+  "team_id": 73,
+  "players": [
+    {
+      "playerId": 143,
+      "name": "cpankethman0",
+      "age": 17,
+      "nationality": "Poland"
+    },
+    {
+      "playerId": 144,
+      "name": "sschirok1",
+      "age": 25,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd8"
+  },
+  "team_id": 74,
+  "players": [
+    {
+      "playerId": 145,
+      "name": "meliyahu0",
+      "age": 25,
+      "nationality": "China"
+    },
+    {
+      "playerId": 146,
+      "name": "dkordas1",
+      "age": 21,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadd9"
+  },
+  "team_id": 75,
+  "players": [
+    {
+      "playerId": 147,
+      "name": "agwalter0",
+      "age": 25,
+      "nationality": "North Korea"
+    },
+    {
+      "playerId": 148,
+      "name": "stullett1",
+      "age": 18,
+      "nationality": "Canada"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadda"
+  },
+  "team_id": 76,
+  "players": [
+    {
+      "playerId": 149,
+      "name": "cbilham0",
+      "age": 20,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 150,
+      "name": "plawrenceson1",
+      "age": 22,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eaddb"
+  },
+  "team_id": 77,
+  "players": [
+    {
+      "playerId": 151,
+      "name": "vchetwin0",
+      "age": 17,
+      "nationality": "Ukraine"
+    },
+    {
+      "playerId": 152,
+      "name": "urowly1",
+      "age": 17,
+      "nationality": "Sweden"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eaddc"
+  },
+  "team_id": 78,
+  "players": [
+    {
+      "playerId": 153,
+      "name": "adahill0",
+      "age": 19,
+      "nationality": "Cameroon"
+    },
+    {
+      "playerId": 154,
+      "name": "gmarder1",
+      "age": 23,
+      "nationality": "Iran"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eaddd"
+  },
+  "team_id": 79,
+  "players": [
+    {
+      "playerId": 155,
+      "name": "hdevorill0",
+      "age": 22,
+      "nationality": "China"
+    },
+    {
+      "playerId": 156,
+      "name": "bmilvarnie1",
+      "age": 25,
+      "nationality": "South Africa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadde"
+  },
+  "team_id": 80,
+  "players": [
+    {
+      "playerId": 157,
+      "name": "cteodorski0",
+      "age": 16,
+      "nationality": "Luxembourg"
+    },
+    {
+      "playerId": 158,
+      "name": "dtoppin1",
+      "age": 19,
+      "nationality": "Colombia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eaddf"
+  },
+  "team_id": 81,
+  "players": [
+    {
+      "playerId": 159,
+      "name": "aparamor0",
+      "age": 24,
+      "nationality": "Philippines"
+    },
+    {
+      "playerId": 160,
+      "name": "mpauleau1",
+      "age": 19,
+      "nationality": "Sweden"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade0"
+  },
+  "team_id": 82,
+  "players": [
+    {
+      "playerId": 161,
+      "name": "pcockerell0",
+      "age": 24,
+      "nationality": "Bosnia and Herzegovina"
+    },
+    {
+      "playerId": 162,
+      "name": "mgrafhom1",
+      "age": 25,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade1"
+  },
+  "team_id": 83,
+  "players": [
+    {
+      "playerId": 163,
+      "name": "orosini0",
+      "age": 21,
+      "nationality": "Philippines"
+    },
+    {
+      "playerId": 164,
+      "name": "body1",
+      "age": 18,
+      "nationality": "Estonia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade2"
+  },
+  "team_id": 84,
+  "players": [
+    {
+      "playerId": 165,
+      "name": "scatlette0",
+      "age": 25,
+      "nationality": "Bulgaria"
+    },
+    {
+      "playerId": 166,
+      "name": "vlanfranconi1",
+      "age": 26,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade3"
+  },
+  "team_id": 85,
+  "players": [
+    {
+      "playerId": 167,
+      "name": "sfullbrook0",
+      "age": 18,
+      "nationality": "China"
+    },
+    {
+      "playerId": 168,
+      "name": "itheuff1",
+      "age": 18,
+      "nationality": "Guatemala"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade4"
+  },
+  "team_id": 86,
+  "players": [
+    {
+      "playerId": 169,
+      "name": "jguy0",
+      "age": 20,
+      "nationality": "France"
+    },
+    {
+      "playerId": 170,
+      "name": "tspeakman1",
+      "age": 24,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade5"
+  },
+  "team_id": 87,
+  "players": [
+    {
+      "playerId": 171,
+      "name": "nburfoot0",
+      "age": 21,
+      "nationality": "Sweden"
+    },
+    {
+      "playerId": 172,
+      "name": "aenoch1",
+      "age": 18,
+      "nationality": "Russia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade6"
+  },
+  "team_id": 88,
+  "players": [
+    {
+      "playerId": 173,
+      "name": "mcastangia0",
+      "age": 22,
+      "nationality": "Brazil"
+    },
+    {
+      "playerId": 174,
+      "name": "bwegner1",
+      "age": 20,
+      "nationality": "Nigeria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade7"
+  },
+  "team_id": 89,
+  "players": [
+    {
+      "playerId": 175,
+      "name": "iaucott0",
+      "age": 22,
+      "nationality": "South Africa"
+    },
+    {
+      "playerId": 176,
+      "name": "ekeoghan1",
+      "age": 25,
+      "nationality": "Nigeria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade8"
+  },
+  "team_id": 90,
+  "players": [
+    {
+      "playerId": 177,
+      "name": "mcartwight0",
+      "age": 17,
+      "nationality": "United States"
+    },
+    {
+      "playerId": 178,
+      "name": "gbisiker1",
+      "age": 16,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eade9"
+  },
+  "team_id": 91,
+  "players": [
+    {
+      "playerId": 179,
+      "name": "dvandale0",
+      "age": 18,
+      "nationality": "Peru"
+    },
+    {
+      "playerId": 180,
+      "name": "sfader1",
+      "age": 23,
+      "nationality": "Indonesia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadea"
+  },
+  "team_id": 92,
+  "players": [
+    {
+      "playerId": 181,
+      "name": "wgoldhawk0",
+      "age": 23,
+      "nationality": "France"
+    },
+    {
+      "playerId": 182,
+      "name": "mexton1",
+      "age": 26,
+      "nationality": "Kazakhstan"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadeb"
+  },
+  "team_id": 93,
+  "players": [
+    {
+      "playerId": 183,
+      "name": "bbleythin0",
+      "age": 22,
+      "nationality": "Palestinian Territory"
+    },
+    {
+      "playerId": 184,
+      "name": "kfergie1",
+      "age": 20,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadec"
+  },
+  "team_id": 94,
+  "players": [
+    {
+      "playerId": 185,
+      "name": "acahan0",
+      "age": 20,
+      "nationality": "Indonesia"
+    },
+    {
+      "playerId": 186,
+      "name": "rgirodon1",
+      "age": 16,
+      "nationality": "Poland"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eaded"
+  },
+  "team_id": 95,
+  "players": [
+    {
+      "playerId": 187,
+      "name": "wcordeau0",
+      "age": 21,
+      "nationality": "Poland"
+    },
+    {
+      "playerId": 188,
+      "name": "vpeyton1",
+      "age": 16,
+      "nationality": "Thailand"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadee"
+  },
+  "team_id": 96,
+  "players": [
+    {
+      "playerId": 189,
+      "name": "cmelendez0",
+      "age": 23,
+      "nationality": "Egypt"
+    },
+    {
+      "playerId": 190,
+      "name": "jallston1",
+      "age": 17,
+      "nationality": "Moldova"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadef"
+  },
+  "team_id": 97,
+  "players": [
+    {
+      "playerId": 191,
+      "name": "gbehnen0",
+      "age": 23,
+      "nationality": "Guatemala"
+    },
+    {
+      "playerId": 192,
+      "name": "bcrossan1",
+      "age": 22,
+      "nationality": "Tunisia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadf0"
+  },
+  "team_id": 98,
+  "players": [
+    {
+      "playerId": 193,
+      "name": "jgabriely0",
+      "age": 25,
+      "nationality": "Pakistan"
+    },
+    {
+      "playerId": 194,
+      "name": "mdebell1",
+      "age": 19,
+      "nationality": "Brazil"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadf1"
+  },
+  "team_id": 99,
+  "players": [
+    {
+      "playerId": 195,
+      "name": "fvoules0",
+      "age": 17,
+      "nationality": "China"
+    },
+    {
+      "playerId": 196,
+      "name": "btellesson1",
+      "age": 17,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadf2"
+  },
+  "team_id": 0,
+  "players": [
+    {
+      "playerId": 197,
+      "name": "mbaterip0",
+      "age": 18,
+      "nationality": "United States"
+    },
+    {
+      "playerId": 198,
+      "name": "arandell1",
+      "age": 26,
+      "nationality": "China"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eadf3"
+  },
+  "team_id": 1,
+  "players": [
+    {
+      "playerId": 199,
+      "name": "rdolle0",
+      "age": 21,
+      "nationality": "Argentina"
+    },
+    {
+      "playerId": 200,
+      "name": "fbenois1",
+      "age": 22,
+      "nationality": "China"
+    }
+  ]
+}]

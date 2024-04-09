@@ -1,0 +1,5 @@
+[{
+    "team_id":1,
+    "players": [{"player_id":1,"name":"eswinfon0","age":16,"nationality":"Brazil"},
+                {"player_id":2,"name":"bmadders1","age":16,"nationality":"China"}]
+}]

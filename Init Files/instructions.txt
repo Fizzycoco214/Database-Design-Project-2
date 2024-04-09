@@ -1,0 +1,1 @@
+Import the files in this folder into mongo compass as different collections

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "661484c20a963ed49d2eada8"
+  },
+  "team_id": 25,
+  "players": [
+    {
+      "playerId": 49,
+      "name": "rhinks0",
+      "age": 26,
+      "nationality": "China"
+    },
+    {
+      "playerId": 50,
+      "name": "gcarlisle1",
+      "age": 26,
+      "nationality": "Equatorial Guinea"
+    }
+  ]
+}]
